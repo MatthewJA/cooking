@@ -34,8 +34,8 @@ layout: default
 
   {% if page.prepmins or page.cookmins %}
     <dl class="dl-horizontal">
-      {% if page.prepmins %}<dt>Preparation time</dt><dd>{{ page.prepmins }} mins<span itemprop="prepTime" class="invisible">PT{{ page.prepmins }}M</span></dd>{% endif %}
-      {% if page.cookmins %}<dt>Cooking time</dt><dd>{{ page.cookmins }} mins<span itemprop="cookTime" class="invisible">PT{{ page.cookmins }}M</span></dd>{% endif %}
+      {% if page.prepmins %}<dt>Prep: </dt><dd>{{ page.prepmins }} mins</dd>{% endif %}
+      {% if page.cookmins %}<dt>Cook: </dt><dd>{{ page.cookmins }} mins</dd>{% endif %}
     </dl>
   {% endif %}
   </article>
