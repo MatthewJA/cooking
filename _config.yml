@@ -12,3 +12,9 @@ collections:
   recipes:
     output: true
     layout: recipe
+defaults:
+  - scope:
+      path: ""
+      type: "recipe"
+    values:
+      layout: "recipe"
