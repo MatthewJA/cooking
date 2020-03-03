@@ -8,7 +8,36 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}
+    <!-- Recipe layout adapted from Dominic Sayers https://www.dominicsayers.com/recipe_markup/ -->
+    <!-- ingredients -->
+    <div>
+      <h3>Ingredients</h3>
+       <ul>
+          {% for ingredient in page.ingredients %}
+          <li itemprop="ingredients">{{ ingredient[1] }} {{ ingredient[0] }}</li>
+          {% endfor %}
+       </ul>
+    </div>
+    <!-- ingredients -->
+
+    {{content}}
+
+    <!-- instructions -->
+    <div itemprop="recipeInstructions">
+      <h3>Instructions</h3>
+      <ol>
+        <li>{{ page.instructions | join: '</li> <li>' }}</li>
+      </ol>
+    </div>
+    <!-- instructions -->
+  </div>
+
+  {% if page.prepmins or page.cookmins %}
+    <dl class="dl-horizontal">
+      {% if page.prepmins %}<dt>Preparation time</dt><dd>{{ page.prepmins }} mins<span itemprop="prepTime" class="invisible">PT{{ page.prepmins }}M</span></dd>{% endif %}
+      {% if page.cookmins %}<dt>Cooking time</dt><dd>{{ page.cookmins }} mins<span itemprop="cookTime" class="invisible">PT{{ page.cookmins }}M</span></dd>{% endif %}
+    </dl>
+  {% endif %}
   </article>
 
   <div align="center">
