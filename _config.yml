@@ -9,4 +9,5 @@ twitter_username: indecisivematt
 github_username: matthewja
 
 collections:
-  - recipes
+  recipes:
+    output: true
