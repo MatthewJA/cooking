@@ -11,3 +11,4 @@ github_username: matthewja
 collections:
   recipes:
     output: true
+    layout: recipe
