@@ -7,3 +7,6 @@ baseurl: "/cooking/" # the subpath of your site, e.g. /blog/
 url: "https://matthewja.com" # the base hostname & protocol for your site
 twitter_username: indecisivematt
 github_username: matthewja
+
+collections:
+  - recipes
