@@ -38,4 +38,4 @@ tags:
   - dessert
 ---
 
-Modified [damper](damper.html) recipe with some nice add-ins. The main difference is to cover when baking, otherwise the onion burns.
+Based on [Mary-Ellen McTague's nectarine tart](https://www.theguardian.com/lifeandstyle/2014/jul/25/nectarine-recipes-mary-ellen-mctague). Nectarines work just as well as peaches and you can mix them, just watch the baking time. Apricots add tartness, though they don't need to be baked or peeled like the peaches do.
