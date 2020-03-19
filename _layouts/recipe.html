@@ -14,7 +14,7 @@ layout: default
       <h3>Ingredients</h3>
        <ul>
           {% for ingredient in page.ingredients %}
-          <li itemprop="ingredients">{{ ingredient[1] }} {{ ingredient[0] }}</li>
+          <li itemprop="ingredients">{{ ingredient[1] }} <span class="ingredient-name">{{ ingredient[0] }}</span></li>
           {% endfor %}
        </ul>
     </div>
