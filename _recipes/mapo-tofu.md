@@ -5,7 +5,7 @@ ingredients:
   Sichuan peppercorns: 1 T
   Spring onion: 1
   Garlic: 4 cl
-  Ginger: thumb-sized piece
+  Ginger: Thumb-sized piece
   Chilli bean paste (辣豆瓣酱): 3 T
   Beef mince: 80 g
   Peanut oil: 5 T
@@ -20,7 +20,7 @@ ingredients:
 instructions:
   - Blanch 1/2 kg tofu, cubed, in 1/2 t salt and boiling water for 3 minutes. Leave in pot.
   - In a dry pan, toast and grind 1 T Sichuan peppercorns.
-  - Prep 1 spring onion, 4 cl garlic, 2" ginger.
+  - Prep 1 spring onion, 4 cl garlic, thumb-sized piece ginger.
   - Mince 80 g beef mince until paste-like, using a cleaver or other heavy knife.
   - Fry mince in 5 T peanut oil until it is crispy and releases its oil.
   - Lower heat and gently fry chilli bean paste until oil is red, about 1.5 minutes.
@@ -40,5 +40,4 @@ tags:
   - sichuan
 ---
 
-Based on [Chinese Cooking Demystified's mapo tofu recipe](https://www.reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90/),
-modified according to how I make it.
+Based on [Chinese Cooking Demystified's mapo tofu recipe](https://www.reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90/).
