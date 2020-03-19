@@ -138,6 +138,7 @@
 
     .post-content {
         margin-bottom: $spacing-unit;
+}
         /*
         h2 {
             font-size: 32px;
@@ -163,3 +164,10 @@
             }
         } */
     }
+
+
+/* Recipes */
+
+.ingredient-name {
+ text-transform: lowercase;
+}
