@@ -20,13 +20,13 @@ ingredients:
 instructions:
   - Blanch 1/2 kg tofu, cubed, in 1/2 t salt and boiling water for 3 minutes. Leave in pot.
   - In a dry pan, toast and grind 1 T Sichuan peppercorns.
-  - Prep: 1 spring onion, 4 cl garlic, 2" ginger.
+  - Prep 1 spring onion, 4 cl garlic, 2" ginger.
   - Mince 80 g beef mince until paste-like, using a cleaver or other heavy knife.
   - Fry mince in 5 T peanut oil until it is crispy and releases its oil.
   - Lower heat and gently fry chilli bean paste until oil is red, about 1.5 minutes.
   - Add garlic, ginger, 2 T chilli flakes, and fry for another minute.
   - Add 1 c stock and drained tofu. Simmer heavily until reduced by half.
-  - Add: 1 T soy sauce, 1 T liaojiu, 1/4 t MSG, 1/4 t white ppeper, 1/2 T sesame oil.
+  - Add 1 T soy sauce, 1 T liaojiu, 1/4 t MSG, 1/4 t white ppeper, 1/2 T sesame oil.
   - Thicken with cornflour.
   - Add spring onions and lightly cook.
   - Add ground Sichuan pepper.
