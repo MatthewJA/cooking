@@ -16,14 +16,14 @@ instructions:
   - Bring a saucepan of water to boil and remove from heat, then add the pack of rice noodles. Follow the packet directions, but undercook slightly by a few minutes.
   - Wash 250 g of sugar snap peas and 1 bunch of spring onions, then cut crosswise into 1 cm pieces.
   - Fry 500 g pork mince in a large saucepan.
-  - Mix sauce in a small bowl: 1 lime, 1 t brown sugar, 4 t fish sauce, 2 t soy sauce, 2 t kecap manis, and 4 t chilli-garlic sauce.
+  - "Mix sauce in a small bowl: 1 lime, 1 t brown sugar, 4 t fish sauce, 2 t soy sauce, 2 t kecap manis, and 4 t chilli-garlic sauce."
   - Add 3 cloves of crushed garlic to pan with pork. Add sugar snap peas and spring onions and fry to soften.
   - Scramble 2 eggs in pan.
   - Add drained noodles and sauce then warm through.
 prepmins: 5
 cookmins: 22
-title: Pad Thai
-name: Pad Thai
+title: Pork Mince Pad Thai
+name: Pork Mince Pad Thai
 tags:
   - pad thai
   - pork
