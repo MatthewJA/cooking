@@ -4,6 +4,8 @@ ingredients:
   Pork mince: 500 g
   Eggs: 2
   Garlic: 3 cl
+  Chilli: 1
+  Onion: 1
   Spring onions: 1 bunch
   Sugar snap peas: 250 g
   Limes: 1
@@ -15,9 +17,9 @@ ingredients:
 instructions:
   - Bring a saucepan of water to boil and remove from heat, then add the pack of rice noodles. Follow the packet directions, but undercook slightly by a few minutes.
   - Wash 250 g of sugar snap peas and 1 bunch of spring onions, then cut crosswise into 1 cm pieces.
-  - Fry 500 g pork mince in a large saucepan.
+  - Fry 500 g pork mince and 1 diced onion in a large saucepan.
   - "Mix sauce in a small bowl: 1 lime, 1 t brown sugar, 4 t fish sauce, 2 t soy sauce, 2 t kecap manis, and 4 t chilli-garlic sauce."
-  - Add 3 cloves of crushed garlic to pan with pork. Add sugar snap peas and spring onions and fry to soften.
+  - Add 3 cloves of crushed garlic and 1 sliced chilli to pan with pork. Add sugar snap peas and spring onions and fry to soften.
   - Scramble 2 eggs in pan.
   - Add drained noodles and sauce then warm through.
 prepmins: 5
@@ -32,4 +34,4 @@ tags:
 ---
 
 The lime and sugar substitute for tamarind paste, which I don't generally have: if you want to use that instead, halve the lime and ditch the sugar.
-Sub chilli-garlic sauce for two additional cloves of crushed garlic in the sauce, no sugar, and sweet chilli sauce.
+Sub chilli-garlic sauce for two additional cloves of crushed garlic in the sauce, no sugar, and sweet chilli sauce. Undercook the noodles or they'll disintegrate in the pan. 
