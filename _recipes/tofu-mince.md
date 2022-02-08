@@ -11,7 +11,7 @@ ingredients:
 instructions:
   - Press and crumble tofu.
   - Marinate in all ingredients.
-  - Bake at 200°C for a good long while.
+  - Bake at 200 C for a good long while.
 prepmins: 5
 cookmins: 30
 title: Tofu Mince
