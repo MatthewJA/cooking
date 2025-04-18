@@ -16,7 +16,7 @@ instructions:
 prepmins: 5
 cookmins: 180
 title: Seed Bread &#35;1
-name: Seed Bread &#35;&#35;1
+name: Seed Bread &#35;1
 tags:
   - bread
 ---
