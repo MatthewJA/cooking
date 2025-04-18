@@ -15,8 +15,8 @@ instructions:
   - Small loaf setting.
 prepmins: 5
 cookmins: 180
-title: Seed Bread #1
-name: Seed Bread #1
+title: Seed Bread \#1
+name: Seed Bread \#1
 tags:
   - bread
 ---
